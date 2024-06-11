@@ -10,7 +10,7 @@ window.botpressWebChat.init({
   "themeName": "prism",
   "botName": "DeTrumpy",
   "avatarUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/881f9db0-c2c7-4b02-9fa8-1d6ac1a5a474/d8zc77s-7dd71113-82f7-434d-8d6f-d89c8a8971b2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4MWY5ZGIwLWMyYzctNGIwMi05ZmE4LTFkNmFjMWE1YTQ3NFwvZDh6Yzc3cy03ZGQ3MTExMy04MmY3LTQzNGQtOGQ2Zi1kODljOGE4OTcxYjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VQ0VC3xeMesyUmHGkHppeHetOZ1HSlXKt6Nl7ug5smM",
-  "stylesheet": "https://webchat-styler-css.botpress.app/prod/code/c6e27471-02ec-469d-9816-89a1ff6d1ef4/v31736/style.css",
+  "stylesheet": "https://webchat-styler-css.botpress.app/prod/code/e75e8881-c9b5-4e30-8a0d-3546743c52fb/v19682/style.css",
   "frontendVersion": "v1",
   "enableConversationDeletion": true,
   "disableNotificationSound": true,
